@@ -23,11 +23,11 @@ hosts:
 # Site configuration
 site:
   # Title
-  title: Downtime
+  title: Server Domain Status
   # Favicon / logo
-  favicon: https://gigamaster.github.io/codemo/icon.png
+  favicon: https://github.com/gigamaster/status/icon.png
   # Refresh rate of status images for client
-  refresh_rate_sec: 120
+  refresh_rate_sec: 1200
 
 # Default values
 defaults:
