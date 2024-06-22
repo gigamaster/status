@@ -1,7 +1,7 @@
 (async function () {
   const config = await fetch("static/site").then(response => response.json())
   //Update title
-    document.title = config.title ?? "Downtime"
+    document.title = config.title ?? "Server Domain Status"
     document.querySelector(".name").innerText = document.title
   //Update logo/favicon
     if (config.favicon) {
