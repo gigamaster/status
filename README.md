@@ -2,8 +2,10 @@
 
 ## Embed
 
-```
-domain
+```html
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/gigamaster/status/blob/main/status/calepin.de-443.svg"><img src="https://github.com/gigamaster/status/raw/main/status/calepin.de-443.svg" alt="Calepin" style="max-width: 100%;"></a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/gigamaster/status/blob/main/status/xcl.freecluster.eu-443.svg"><img src="https://github.com/gigamaster/status/raw/main/status/xcl.freecluster.eu-443.svg" alt="XCL Freecluster" style="max-width: 100%;"></a>
 ```
 
 ## 🚥 Current status
