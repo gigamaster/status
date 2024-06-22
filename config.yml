@@ -9,6 +9,8 @@ hosts:
       # Example / test url
   - name: xcl.freecluster.eu
     title: XCL Freecluster
+  - name: sites.google.com/view/ateliermedia/
+    title: Atelier Media
   # Example / test ip with port using ncat
   - name: "8.8.8.8"
     title: Google DNS
