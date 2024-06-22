@@ -2,7 +2,7 @@
 
 
 
-## 🚥 Current status
+## 🚥 Current domain status
 
 <!-- <downtime-status> -->
 ![Calepin](/status/calepin.de-443.svg)
@@ -14,12 +14,26 @@
 
 ## Embed
 
-```html
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/gigamaster/status/blob/main/status/calepin.de-443.svg">
-    <img src="https://github.com/gigamaster/status/raw/main/status/calepin.de-443.svg" alt="Calepin" style="max-width: 100%;">
-</a>
+### calepin.de
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/gigamaster/status/blob/main/status/xcl.freecluster.eu-443.svg">
-    <img src="https://github.com/gigamaster/status/raw/main/status/xcl.freecluster.eu-443.svg" alt="XCL Freecluster" style="max-width: 100%;">
+```html
+<a target="_blank" 
+   rel="noopener noreferrer" 
+   href="https://github.com/gigamaster/status/blob/main/status/calepin.de-443.svg">
+<img src="https://github.com/gigamaster/status/raw/main/status/calepin.de-443.svg" 
+   alt="Calepin" 
+   style="max-width: 100%;">
+</a>
+```
+
+### xcl.freecluster.eu
+
+```html
+<a target="_blank" 
+   rel="noopener noreferrer" 
+   href="https://github.com/gigamaster/status/blob/main/status/xcl.freecluster.eu-443.svg">
+<img src="https://github.com/gigamaster/status/raw/main/status/xcl.freecluster.eu-443.svg" 
+   alt="XCL Freecluster" 
+   style="max-width: 100%;">
 </a>
 ```
