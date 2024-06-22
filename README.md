@@ -1,6 +1,6 @@
 # Server
 
-
+[View status page](https://gigamaster.github.io/status/)
 
 ## 🚥 Current domain status
 
@@ -11,6 +11,8 @@
 ![Google DNS](/status/8.8.8.8-53.svg)
 ![Unavailable website](/status/unavailable.website.com-443.svg)
 <!-- <downtime-status/> -->
+
+----- 
 
 ## Embed
 
