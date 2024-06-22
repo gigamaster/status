@@ -19,7 +19,7 @@ jobs:
           fetch-depth: 0
 
       - name: Setup
-        uses: denolib/setup-deno@v2
+        uses: denoland/setup-deno@v1
 
       - name: Additional setup
         run: |
