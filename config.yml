@@ -7,8 +7,11 @@ hosts:
   - name: google.com
     title: Google
   # Example / test url
-  - name: github.com/lowlighter/downtime
-    title: Downtime repository
+  - name: calepin.de
+    title: Calepin
+      # Example / test url
+  - name: xcl.freecluster.eu
+    title: XCL Freecluster
   # Example / test ip with port using ncat
   - name: "8.8.8.8"
     title: Google DNS
