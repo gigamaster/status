@@ -1,6 +1,8 @@
 # Server
 
-[View status page](https://gigamaster.github.io/status/)
+[📊 View status page](https://gigamaster.github.io/status/)
+
+----- 
 
 ## 🚥 Current domain status
 
@@ -14,7 +16,7 @@
 
 ----- 
 
-## Embed
+## 🖼 Embed
 
 ### calepin.de
 
