@@ -3,10 +3,12 @@
 # "title" will be displayed as "human name" instead of "name" if specified
 # All defaults values can be overriden per host basis
 hosts:
+  - name: gigamaster.github.io/livecodes/
+    title: Livecodes
   # Example / test root domain
   - name: calepin.de
     title: Calepin
-      # Example / test url
+  # Example / test url
   - name: xcl.freecluster.eu
     title: XCL Freecluster
   - name: sites.google.com/view/ateliermedia/
@@ -17,8 +19,8 @@ hosts:
     port: 53
     use: ncat
   # Example / unavailable website
-  - name: unavailable.website.com
-    title: Unavailable website
+  #- name: unavailable.website.com
+  #  title: Unavailable website
 
 # Site configuration
 site:
